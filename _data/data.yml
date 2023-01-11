@@ -4,9 +4,10 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: joeyanuff@gmail.com
+  github: januff
+  linkedin: joeyanuff
+  codepen: januff
   phone: 
   gitlab: 
   twitter: 
@@ -14,7 +15,6 @@ contact:
 languages:
   - idiom: English
   - idiom: Spanish
-  - idiom: Javascript
 
 education:
   - degree: MSc in Informatics
@@ -41,37 +41,25 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  I'm a writer and first-wave Web hacker who's kept current with the modern web stack, picked up an interest in machine learning, and found in Developer Advocacy a nice way to turn personal demos into teachable code.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Developer Advocate
+    time: 2021-2022
+    company: StepZen
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Music discovery has been a longstanding obsession. In 2021 and 2022, I blogged about a Spotify Likes export tool I built using StepZen's API-simplifying CLI tool.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      GraphQL, Next.js, YouTube API, Spotify API
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Developer Advocate
+    time: 2020-2021
+    company: DataStax
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      International comicology has become a new enthusiasm of mine. Over 2020 and 2021, I blogged about an comics translation editor I built using DataStax's serverless Cassandra API.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Python, React, NoSQL, AWS
 
 publications:
   - title: Random title of paper. An interesting one.

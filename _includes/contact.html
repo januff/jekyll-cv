@@ -29,6 +29,16 @@
         </div>
     {% endif %}
 
+    
+    {% if contact.codepen %}
+        <div class="contact-item">
+            <i data-feather="codepen"></i>
+            <a href="https://codepen.com/{{contact.codepen}}">
+                {{contact.codepen}}
+            </a>
+        </div>
+        {% endif %}
+        
     {% if contact.linkedin %}
         <div class="contact-item">
             <i data-feather="linkedin"></i>
