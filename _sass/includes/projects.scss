@@ -6,6 +6,7 @@
         margin-bottom: 20px;
         .project-link {
             @include body-text;
+            text-decoration: none;
         }
         .details {
             @include body-text;
