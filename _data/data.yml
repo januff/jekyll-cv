@@ -1,4 +1,4 @@
-name: Joey Anuff
+name: Joseph Anuff
 support_dark_mode: true
 fork: true
 
@@ -8,7 +8,7 @@ contact:
   github: januff
   linkedin: joeyanuff
   codepen: januff
-  phone: 
+  phone: 954-309-0991
   gitlab: 
   twitter: 
 
@@ -36,15 +36,22 @@ skills:
       - React
       - Next.js
       - Remix
+      - Quarto
   - category: ML
     skill:
       - Python
+      - NBDev
       - Gradio
       - OpenAI API
+  # - category: API
+  #   skill:
+  #     - Spotify
+  #     - YouTube
+  #     - Knowledge Graph   
 
 # Profile
 profile: |
-  I'm a writer and first-wave Web hacker who's kept current with the modern web stack, picked up an interest in machine learning, and found in Developer Advocacy a nice way to turn personal demos into teachable code.
+  I'm a writer and first-wave Web hacker who has kept current with the modern web stack, sustained an interest in ML-driven web apps, and found in Developer Advocacy the opportunity to turn personal fascinations into teachable code.
 
 # Experience
 experience:
@@ -65,35 +72,37 @@ experience:
       Python, React, NoSQL, AWS
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: >
+      Animating API Results (On a Budget): 
+      Developing layout animations without depleting my API quota
+    link: https://stepzen.com/blog/animating-api-results-on-a-budget
+    authors: Joey Anuff
+    conference: StepZen blog, Mar 11, 2022
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: >
+      The Multiverse Next Door: Digging the global comics underground with cloud APIs & JavaScript
+    link: "https://joeyanuff-33180.medium.com/the-multiverse-next-door-444477bdaf63"
+    authors: Joey Anuff
+    conference: Medium, Feb 2 2021
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: >
+      AWS Lambdas: Easy, Easier, Easiest
+    link: https://januff.github.io/easy-easier-easiest-lambdas/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Quickstarts for AWS Lambda (“serverless”) functions in React, with and without AWS tooling. Functions connect to a serverless Apache Cassandra database.
 
-  - title: Cool Project 
-    link: #
+  - title: januff / textify-typeset-translation
+    link: https://github.com/januff/textify-typeset-translation
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Textify is a simple scanlation editor–a CRUD with cloud ML hooks–inspired by my fascination with international comics corpora, particularly Indonesia's unofficial (and still largely uncharted) branching of the Marvel and DC Universes in the late 1960s and '70s.
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# # Volunteering
+# volunteering:
+#   - time: 2020-Present
+#     role: PR Manager
+#     company: Some random organization
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
