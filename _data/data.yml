@@ -31,7 +31,7 @@ skills:
       - Node.js
       - AWS
       - Netlify
-      - Cassandra
+      - Apache Cassandra
   - category: Frontend
     skill:
       - React
@@ -53,7 +53,7 @@ skills:
 
 # Profile
 profile: |
-  I'm a writer and first-wave Web hacker who has kept current with the modern web stack, developed an interest in ML-driven web apps, and found in Developer Advocacy a priceless opportunity to turn personal obsessions into teachable code.
+  I'm a writer and first-wave Web hacker who has kept current with the modern web stack, developed an interest in ML-driven web apps, and found in Developer Advocacy a priceless opportunity to turn personal obsessions into teachable code. I'm open to freelance assignments, contracts, and full-time employment. 
 
 # Experience
 experience:
@@ -74,11 +74,11 @@ experience:
     #   Python, React, NoSQL, AWS
 
 publications:
-  - title: >
-      Ergo Prompt 
-    link: https://januff.github.io/learn-prompting-cheatsheet/
-    authors: A ChatGPT Diary
-    conference: Quarto blog, Jan 11, 2023
+  # - title: >
+  #     Ergo Prompt (pre-release)
+  #   link: https://januff.github.io/learn-prompting-cheatsheet/
+  #   authors: A ChatGPT Diary
+  #   conference: Quarto blog, Jan 2023
 
   - title: >
       How Portable is My Spotify Playlist?
