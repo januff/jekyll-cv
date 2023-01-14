@@ -32,6 +32,7 @@ skills:
       - AWS
       - Netlify
       - Apache Cassandra
+      - Xano
   - category: Frontend
     skill:
       - React
@@ -93,10 +94,23 @@ publications:
     conference: StepZen blog, Mar 11, 2022
 
   - title: >
+      Mashing up the Spotify & Knowledge Graph APIs Using GraphQL Studio
+    link: "https://stepzen.com/blog/mashing-up-the-spotify-and-knowledge-graph-apis"
+    authors: Behind the Music (in two Sentences or Less)
+    conference: StepZen blog, Dec 1 2021
+
+  - title: >
+      AWS Lambdas: Easy, Easier, Easiest
+    link: "https://joeyanuff-33180.medium.com/aws-lambdas-easy-easier-easiest-823e71c02bd9"
+    authors: These serverless functions practically write themselves
+    conference: Medium, Apr 30 2021
+
+  - title: >
       The Multiverse Next Door
     link: "https://joeyanuff-33180.medium.com/the-multiverse-next-door-444477bdaf63"
     authors: Digging the global comics underground with cloud APIs & JavaScript
     conference: Medium, Feb 2 2021
+
 
 projects:
   # - title: >
@@ -105,16 +119,18 @@ projects:
   #   details: |
   #     Prompts, terms, and tools worth trying.
 
-  - title: >
-      AWS Lambdas: Easy, Easier, Easiest (Apr 2021)
-    link: https://januff.github.io/easy-easier-easiest-lambdas/
-    details: |
-      Quickstarts for AWS Lambda (“serverless”) functions in React, with and without AWS tooling. Functions connect to a serverless Apache Cassandra database.
-
   - title: textify-typeset-translation (Jul 2021)
     link: https://github.com/januff/textify-typeset-translation
     details: |
       Textify is a simple scanlation editor–a CRUD with cloud ML hooks–inspired by my fascination with international comics corpora, particularly Indonesia's unofficial (and still largely uncharted) branching of the Marvel and DC Universes in the late 1960s and '70s.
+
+  - title: >
+      easy-easier-easiest-lambdas (Apr 2021)
+    link: https://github.com/januff/easy-easier-easiest-lambdas
+    details: |
+      Quickstarts for AWS Lambda (“serverless”) functions in React, with and without AWS tooling. Functions connect to a serverless Apache Cassandra database.
+
+
 
 # # Volunteering
 # volunteering:
