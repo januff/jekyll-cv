@@ -31,7 +31,7 @@ skills:
       - Node.js
       - AWS
       - Netlify
-      - Apache Cassandra
+      - Cassandra
       - Xano
   - category: Frontend
     skill:
@@ -45,11 +45,11 @@ skills:
       - Python
       - NBDev
       - Gradio
-      - OpenAI
+      - OpenAI API
 
 # Profile
 profile: |
-  I'm a first-wave Web hacker who's kept current with the modern web stack, and who's trying to keep up with the modern ML stack. As a freelance Developer Advocate, I've found a rewarding way to turn my API struggles into actionable DX feedback and teachable code. Currently open to project, contract, and full-time opportunities.
+  I'm a first-wave Web hacker who's kept current with the modern web stack, and who's keeping up (mostly) with the emerging ML stack. As a freelance Developer Advocate, I've found  opportunity to turn cloud ML experiments into teachable code but I'm eager to make the ML developer experience my full-time focus.
 
 # Experience
 experience:
@@ -57,7 +57,7 @@ experience:
     time: 2021-2022
     company: StepZen
     details: |
-      StepZen is a provider of "GraphQL-as-a-service", helping developers  consolidate multiple backends into a single GraphQL endpoint. In 2021 and 2022, I blogged about a series of StepZen-enhanced interactions with the Spotify API, including bundling biography from Google's Knowledge Graph API and exporting playlists across services.
+      StepZen is a provider of "GraphQL-as-a-service", helping developers  consolidate multiple backends into a single GraphQL endpoint. In 2021 and 2022, I blogged about a series of StepZen-enhanced interactions with the Spotify and YouTube APIs, including bundling biography from Google's Knowledge Graph API and exporting playlists across services.
     # technologies_used: | 
     #   GraphQL, Remix, YouTube API, Spotify API
   
