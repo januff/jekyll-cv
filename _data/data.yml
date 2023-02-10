@@ -17,13 +17,13 @@ contact:
 #   - idiom: Spanish
 
 education:
-  - degree: Deep Learning For Coders Pt. 2
+  - degree: DL For Coders Pt. 2 (Update)
     time: Fall 2022
-    university: University of San Francisco
+    university: USF Data Institute
 
-  - degree: Deep Learning For Coders Pt. 2
+  - degree: DL For Coders Pt. 2
     time: Spring 2019
-    university: University of San Francisco
+    university: USF Data Institute
 
 skills:
   - category: Backend
@@ -42,7 +42,7 @@ skills:
     skill:
       - NBDev
       - Gradio
-      - OpenAI API
+      - OpenAI 
   - category: Previously
     skill:
       - Journalism (WIRED)
@@ -51,7 +51,7 @@ skills:
 
 # Profile
 profile: |
-  I'm a first-wave Web hacker who's kept current with the modern web stack, and who's keeping up (mostly) with the emerging ML stack. As a freelance Developer Advocate, I've enjoyed opportunities to turn cloud ML experiments into teachable code but I'm eager to make the ML developer experience my full-time focus.
+  I'm a first-wave Web hacker who's kept current with the modern web stack, and who's keeping up (mostly) with the emerging ML stack. As a freelance Developer Advocate, I've enjoyed turning cloud ML experiments into teachable code but I'm eager to make the ML developer experience my full-time focus.
 
 # Experience
 experience:
@@ -59,7 +59,7 @@ experience:
     time: 2021-2022
     company: StepZen
     details: |
-      StepZen is a provider of ‘GraphQL-as-a-service’, helping developers  consolidate multiple backends into a single GraphQL endpoint. In 2021 and 2022, I blogged about a series of StepZen-orchestrated interactions with the Spotify and YouTube APIs, including bundling biography from Google's Knowledge Graph API and exporting playlists across services.
+      StepZen is a provider of ‘GraphQL-as-a-service’, helping developers consolidate multiple backends into a single GraphQL endpoint. In 2021 and 2022, I blogged about a series of StepZen-orchestrated interactions with the Spotify and YouTube APIs, including bundling biography from Google's Knowledge Graph API and exporting playlists across services.
     # technologies_used: | 
     #   GraphQL, Remix, YouTube API, Spotify API
   
@@ -81,7 +81,7 @@ publications:
   - title: >
       How Portable is My Spotify Playlist?
     link: https://stepzen.com/blog/how-portable-my-spotify
-    authors: Exporting My Saved Music
+    authors: Orchestrating complex API calls with StepZen/GraphQL instead of Axios/REST
     conference: StepZen blog, May 12, 2022
 
   - title: >
@@ -91,15 +91,15 @@ publications:
     conference: StepZen blog, Mar 11, 2022
 
   - title: >
-      Mashing up the Spotify & Knowledge Graph APIs Using GraphQL Studio
+      Behind the Music (in two Sentences or Less)
     link: "https://stepzen.com/blog/mashing-up-the-spotify-and-knowledge-graph-apis"
-    authors: Behind the Music (in two Sentences or Less)
+    authors: Mashing up the Spotify & Knowledge Graph APIs Using GraphQL Studio
     conference: StepZen blog, Dec 1 2021
 
   - title: >
       AWS Lambdas: Easy, Easier, Easiest
     link: "https://joeyanuff-33180.medium.com/aws-lambdas-easy-easier-easiest-823e71c02bd9"
-    authors: These serverless functions practically write themselves
+    authors: Three compelling APIs for AWS Lambda functions representing three competing visions of simplicity
     conference: Medium, Apr 30 2021
 
   - title: >
