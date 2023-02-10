@@ -6,11 +6,11 @@ fork: false
 contact:
   email: joeyanuff@gmail.com
   github: januff
+  twitter: joeyanuff
   linkedin: joeyanuff
   codepen: januff
   phone: 954-309-0991
   gitlab: 
-  twitter: 
 
 # languages:
 #   - idiom: English
@@ -28,44 +28,46 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Node.js
       - AWS
       - Netlify
       - Cassandra
       - Xano
   - category: Frontend
     skill:
-      - React
       - Next.js
       - Remix
       - Tailwind
       - Framer
   - category: ML
     skill:
-      - Python
       - NBDev
       - Gradio
       - OpenAI API
+  - category: Previously
+    skill:
+      - Journalism (WIRED)
+      - TV (Vh1, A+E)
+      - Web (Suck, Plastic)    
 
 # Profile
 profile: |
-  I'm a first-wave Web hacker who's kept current with the modern web stack, and who's keeping up (mostly) with the emerging ML stack. As a freelance Developer Advocate, I've found  opportunity to turn cloud ML experiments into teachable code but I'm eager to make the ML developer experience my full-time focus.
+  I'm a first-wave Web hacker who's kept current with the modern web stack, and who's keeping up (mostly) with the emerging ML stack. As a freelance Developer Advocate, I've enjoyed opportunities to turn cloud ML experiments into teachable code but I'm eager to make the ML developer experience my full-time focus.
 
 # Experience
 experience:
-  - role: Developer Advocate
+  - role: Developer Advocate (Freelance)
     time: 2021-2022
     company: StepZen
     details: |
-      StepZen is a provider of "GraphQL-as-a-service", helping developers  consolidate multiple backends into a single GraphQL endpoint. In 2021 and 2022, I blogged about a series of StepZen-enhanced interactions with the Spotify and YouTube APIs, including bundling biography from Google's Knowledge Graph API and exporting playlists across services.
+      StepZen is a provider of ‘GraphQL-as-a-service’, helping developers  consolidate multiple backends into a single GraphQL endpoint. In 2021 and 2022, I blogged about a series of StepZen-orchestrated interactions with the Spotify and YouTube APIs, including bundling biography from Google's Knowledge Graph API and exporting playlists across services.
     # technologies_used: | 
     #   GraphQL, Remix, YouTube API, Spotify API
   
-  - role: Developer Advocate
+  - role: Developer Advocate (Contract)
     time: 2020-2021
     company: DataStax
     details: |
-      DataStax is a real-time cloud DB built on the massively scalable Apache Cassandra. In support of DataStax's serverless Stargate API debut of late 2020, I blogged my build of an international comics translation editor using AWS's Predictions API and DataStax's cloud Cassandra service.      
+      DataStax offers a real-time cloud DB built on Apache Cassandra. In support of DataStax's serverless Stargate API debut of late 2020, I blogged my demo of an international comics translation editor using AWS's Predictions API and DataStax's cloud Cassandra DB.      
     # technologies_used: | 
     #   Python, React, NoSQL, AWS
 
@@ -123,7 +125,7 @@ projects:
       easy-easier-easiest-lambdas (Apr 2021)
     link: https://github.com/januff/easy-easier-easiest-lambdas
     details: |
-      Quickstarts for AWS Lambda (“serverless”) functions in React, with and without AWS tooling. Functions connect to a serverless Apache Cassandra database.
+      Quickstarts for AWS Lambda (“serverless”) functions in React, using Amplify, Netlify, or Vercel. Functions connect to a serverless Apache Cassandra database.
 
 
 
