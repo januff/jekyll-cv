@@ -79,6 +79,12 @@ publications:
   #   conference: Quarto blog, Jan 2023
 
   - title: >
+      An Important Reminder About Chat Interfaces
+    link: https://joeyanuff-33180.medium.com/an-important-reminder-about-chat-interfaces-in-the-wake-of-chatgpt-5df21342d03d
+    authors: Whatever ChatGPT was spewing, it was spewing in chunks. 
+    conference: Medium, Feb 16, 2023
+
+  - title: >
       How Portable is My Spotify Playlist?
     link: https://stepzen.com/blog/how-portable-my-spotify
     authors: Orchestrating complex API calls with StepZen/GraphQL instead of Axios/REST
@@ -115,6 +121,11 @@ projects:
   #   link: https://januff.github.io/learn-prompting-cheatsheet/
   #   details: |
   #     Prompts, terms, and tools worth trying.
+
+  - title: dear-aibby (Feb 2023)
+    link: https://github.com/januff/dear-aibby
+    details: |
+      This project uses the OpenAI GPT-3 API (specifically, text-davinci-003) and Vercel Edge functions with streaming.
 
   - title: textify-typeset-translation (Jul 2021)
     link: https://github.com/januff/textify-typeset-translation
