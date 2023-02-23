@@ -125,7 +125,7 @@ projects:
   - title: dear-aibby (Feb 2023)
     link: https://github.com/januff/dear-aibby
     details: |
-      This project uses the OpenAI GPT-3 API (specifically, text-davinci-003) and Vercel Edge functions with streaming.
+      This project uses the OpenAI GPT-3 API and Vercel Edge functions with streaming.
 
   - title: textify-typeset-translation (Jul 2021)
     link: https://github.com/januff/textify-typeset-translation
