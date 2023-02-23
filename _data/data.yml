@@ -90,17 +90,17 @@ publications:
     authors: Orchestrating complex API calls with StepZen/GraphQL instead of Axios/REST
     conference: StepZen blog, May 12, 2022
 
-  - title: >
-      Animating API Results (On a Budget)
-    link: https://stepzen.com/blog/animating-api-results-on-a-budget
-    authors: Iterating layout animations without depleting your API quota
-    conference: StepZen blog, Mar 11, 2022
+  # - title: >
+  #     Animating API Results (On a Budget)
+  #   link: https://stepzen.com/blog/animating-api-results-on-a-budget
+  #   authors: Iterating layout animations without depleting your API quota
+  #   conference: StepZen blog, Mar 11, 2022
 
-  - title: >
-      Behind the Music (in two Sentences or Less)
-    link: "https://stepzen.com/blog/mashing-up-the-spotify-and-knowledge-graph-apis"
-    authors: Mashing up the Spotify & Knowledge Graph APIs Using GraphQL Studio
-    conference: StepZen blog, Dec 1 2021
+  # - title: >
+  #     Behind the Music (in two Sentences or Less)
+  #   link: "https://stepzen.com/blog/mashing-up-the-spotify-and-knowledge-graph-apis"
+  #   authors: Mashing up the Spotify & Knowledge Graph APIs Using GraphQL Studio
+  #   conference: StepZen blog, Dec 1 2021
 
   - title: >
       AWS Lambdas: Easy, Easier, Easiest
